@@ -121,8 +121,10 @@ O dashboard apresenta indicadores gerais e três visualizações:
 - Quantidade de leituras por hora.
 - Temperaturas máximas e mínimas por dia.
   
+<img width="1595" height="809" alt="image" src="https://github.com/user-attachments/assets/1d529a62-a2f6-4973-b0f5-04335ac78b5f" />
+<img width="1595" height="437" alt="image" src="https://github.com/user-attachments/assets/b7942389-56b1-425f-927f-858c38e13db7" />
+<img width="1583" height="482" alt="image" src="https://github.com/user-attachments/assets/b0eb8a2e-5b00-45df-a48c-730f0a594a69" />
 
-**Captura de tela:** inserir aqui uma imagem real do dashboard em execução.
 
 
 9. Resultados e possíveis aplicações
